@@ -1,0 +1,42 @@
+<div class="container">
+    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+      Crear Venta
+    </button>
+  
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Nombre Cliente</th>
+          <th scope="col">Nombre Producto</th>
+          <th scope="col">Valor Unitario</th>
+          <th scope="col">Valor Total</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let venta of ventas">
+          <td>{{venta.id}}</td>
+          <td>{{venta.nombre_Cliente}}</td>
+          <td>{{venta.nombre_Producto}}</td>
+          <td>{{venta.valor_Unitario}}</td>
+          <td>{{venta.valor_Total}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Crear Venta</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <app-crear-venta></app-crear-venta>
+        </div>
+  
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\bin\Debug\netcoreapp2.1\SophosPruebaTecnica.deps.json
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\bin\Debug\netcoreapp2.1\SophosPruebaTecnica.runtimeconfig.json
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\bin\Debug\netcoreapp2.1\SophosPruebaTecnica.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\bin\Debug\netcoreapp2.1\SophosPruebaTecnica.dll
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\bin\Debug\netcoreapp2.1\SophosPruebaTecnica.pdb
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\obj\Debug\netcoreapp2.1\SophosPruebaTecnica.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\obj\Debug\netcoreapp2.1\SophosPruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\obj\Debug\netcoreapp2.1\SophosPruebaTecnica.RazorAssemblyInfo.cache
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\obj\Debug\netcoreapp2.1\SophosPruebaTecnica.RazorAssemblyInfo.cs
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\obj\Debug\netcoreapp2.1\SophosPruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\obj\Debug\netcoreapp2.1\SophosPruebaTecnica.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\obj\Debug\netcoreapp2.1\SophosPruebaTecnica.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\obj\Debug\netcoreapp2.1\SophosPruebaTecnica.dll
+C:\Users\Daniel\source\repos\SophosPruebaTecnica\SophosPruebaTecnica\obj\Debug\netcoreapp2.1\SophosPruebaTecnica.pdb

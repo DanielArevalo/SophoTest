@@ -1,0 +1,19 @@
+<form [formGroup]="profileForm" (ngSubmit)="CrearProducto()">
+    <div class="form-group">
+        <label for="inputUsuario">Nombre</label>
+        <input type="text" class="form-control" id="inputUsuario" aria-describedby="nombre"
+            placeholder="Ingrese Nombre" formControlName="nombre">
+    </div>
+
+    <div class="form-group">
+        <label for="inputApellidos">Valor Unitario</label>
+        <input type="number" class="form-control" id="inputApellidos" aria-describedby="valor_Unitario"
+            placeholder="Ingrese Valor unitario" formControlName="valor_Unitario">
+    </div>
+
+    <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </div>
+
+</form>

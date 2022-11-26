@@ -1,0 +1,29 @@
+<div class="container">
+    <form [formGroup]="profileForm" (ngSubmit)="venta()">
+
+        <div class="form-group">
+            <label for="inputUsuario">Clientes</label>
+            <select class="form-select" formControlName="cliente">
+                <option *ngFor="let cliente of clientes" value="{{cliente.id}}">{{cliente.nombre}}</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="inputUsuario">Productos</label>
+            <select class="form-select" formControlName="producto">
+                <option *ngFor="let producto of productos" value="{{producto.id}}">{{producto.nombre}}</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="inputApellidos">Valor Unitario</label>
+            <input type="number" class="form-control" id="inputApellidos" aria-describedby="cantidad"
+                placeholder="Ingrese Cantidad" formControlName="cantidad">
+        </div>
+
+        <div class="modal-footer">
+            <button type="submit" class="btn btn-primary">Hacer Venta</button>
+        </div>
+
+    </form>
+</div>
